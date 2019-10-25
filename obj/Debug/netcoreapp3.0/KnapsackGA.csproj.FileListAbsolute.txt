@@ -1,0 +1,11 @@
+C:\Users\Manorkruls Javier\OneDrive\3.klasse\Optimering\src\Oblig2\KnapsackGA\bin\Debug\netcoreapp3.0\KnapsackGA.exe
+C:\Users\Manorkruls Javier\OneDrive\3.klasse\Optimering\src\Oblig2\KnapsackGA\bin\Debug\netcoreapp3.0\KnapsackGA.deps.json
+C:\Users\Manorkruls Javier\OneDrive\3.klasse\Optimering\src\Oblig2\KnapsackGA\bin\Debug\netcoreapp3.0\KnapsackGA.runtimeconfig.json
+C:\Users\Manorkruls Javier\OneDrive\3.klasse\Optimering\src\Oblig2\KnapsackGA\bin\Debug\netcoreapp3.0\KnapsackGA.runtimeconfig.dev.json
+C:\Users\Manorkruls Javier\OneDrive\3.klasse\Optimering\src\Oblig2\KnapsackGA\bin\Debug\netcoreapp3.0\KnapsackGA.dll
+C:\Users\Manorkruls Javier\OneDrive\3.klasse\Optimering\src\Oblig2\KnapsackGA\bin\Debug\netcoreapp3.0\KnapsackGA.pdb
+C:\Users\Manorkruls Javier\OneDrive\3.klasse\Optimering\src\Oblig2\KnapsackGA\obj\Debug\netcoreapp3.0\KnapsackGA.csprojAssemblyReference.cache
+C:\Users\Manorkruls Javier\OneDrive\3.klasse\Optimering\src\Oblig2\KnapsackGA\obj\Debug\netcoreapp3.0\KnapsackGA.AssemblyInfoInputs.cache
+C:\Users\Manorkruls Javier\OneDrive\3.klasse\Optimering\src\Oblig2\KnapsackGA\obj\Debug\netcoreapp3.0\KnapsackGA.AssemblyInfo.cs
+C:\Users\Manorkruls Javier\OneDrive\3.klasse\Optimering\src\Oblig2\KnapsackGA\obj\Debug\netcoreapp3.0\KnapsackGA.dll
+C:\Users\Manorkruls Javier\OneDrive\3.klasse\Optimering\src\Oblig2\KnapsackGA\obj\Debug\netcoreapp3.0\KnapsackGA.pdb
